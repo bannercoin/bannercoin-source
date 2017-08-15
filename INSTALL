@@ -1,0 +1,9 @@
+Building bannercoin
+
+See doc/readme-qt.rst for instructions on building bannercoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of bannercoin.
+
+See doc/build-*.txt for instructions on building bannercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of bannercoin.
